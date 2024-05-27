@@ -1,0 +1,13 @@
+name = "Ells Pack"
+author = "Mofo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "97bf69caef33723923645660c120541f95a434082eed1d3c09cc63371f91631f"
+
+[versions]
+forge = "47.2.32"
+minecraft = "1.20.1"
