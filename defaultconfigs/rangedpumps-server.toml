@@ -19,7 +19,7 @@
 	#Range: > 0
 	energyUsagePerDrain = 100
 	#Whether the pump uses energy to work
-	useEnergy = true
+	useEnergy = false
 	#Replaces liquids that are removed with a block defined in 'blockIdToReplaceLiquidsWith' (to reduce lag)
 	replaceLiquidWithBlock = true
 	#The block that liquids are replaced with when 'replaceLiquidWithBlock' is true
