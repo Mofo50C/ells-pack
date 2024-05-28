@@ -489,6 +489,14 @@ file = "config/balm-common.toml"
 hash = "f24f7cede066400c657af13b1aff84e4920ac531bf24ab18cff1ef32fff72835"
 
 [[files]]
+file = "config/barteringstation-client.toml"
+hash = "5bfe02aedc8da01e2e5f821cd1d9303f487b8992866f5289c579b0101a0a7f73"
+
+[[files]]
+file = "config/barteringstation-server.toml"
+hash = "b3e95ff6dbb4cd08afb1db4de5f4a3647b7f3ec144e0507db92ff88c3d6ae492"
+
+[[files]]
 file = "config/betteradvancements-client.toml"
 hash = "caca7ec27174c71dfcaabc93724a2281950df979cfd6b7a40c5557c75e15438f"
 
@@ -545,6 +553,14 @@ file = "config/clickadv.json"
 hash = "fef2a56ec39082f313fc9f3b947a200b1499d510ff031b041b61ae227ba6b211"
 
 [[files]]
+file = "config/clickmachine.cfg"
+hash = "7e01626d260a6a33067cd256ff41e43387b39ee762d5ed01a05b0a4862eb1222"
+
+[[files]]
+file = "config/clienttweaks-common.toml"
+hash = "3798d9ed4d748ce7f28801f5b7f2106138c02f9f0cf07208a8a5ac6150b4f4eb"
+
+[[files]]
 file = "config/collective.json5"
 hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
 
@@ -567,6 +583,10 @@ hash = "000b9988ecbe8b294dc3577d1867b09954e237775b3a252af45df0b4cb2c591c"
 [[files]]
 file = "config/cosmeticarmorreworked-common.toml"
 hash = "bbcc81de697b22295d1fb327a0fd0b1deebe86a33daba4713c341e15ecf89316"
+
+[[files]]
+file = "config/craftingautomat-common.toml"
+hash = "75a8149d0d0a824d34b0d2aec0817bb950c25400e1d876b8e76514ae7706bc66"
 
 [[files]]
 file = "config/craftingtweaks-common.toml"
@@ -733,6 +753,14 @@ file = "config/functionalstorage/functionalstorage-common.toml"
 hash = "755f6ce544a914b7c01a5ccfafc2cd4928635317b8af3fc500f5b610a8a5f703"
 
 [[files]]
+file = "config/hangglider-client.toml"
+hash = "4d5d7181d9067ec7a43c357b962f671d48f0f9da57adfb732b4fb025bdd88ca7"
+
+[[files]]
+file = "config/hangglider-server.toml"
+hash = "bc68484c6b4228b95cd62731026531eb00d254afd8b87d99770da92eb7ea9ee8"
+
+[[files]]
 file = "config/harvestwithease-common.toml"
 hash = "12cea05696100fe7b604b9e5be201581cb5221d389d2c034d1d45764dabaea82"
 
@@ -741,20 +769,16 @@ file = "config/insanelib-common.toml"
 hash = "9c7a4d601a1f1f7d0630af08c49d2532bf9e514c9b0854826e28d3de67a4cb4b"
 
 [[files]]
+file = "config/inventorysorter-client.toml"
+hash = "a9a90c120d374d82018b03e579f1a4df8b4c5218e47a5c59a06fb3284661195f"
+
+[[files]]
 file = "config/ironfurnaces-client.toml"
 hash = "9f1782426d9574112a5f576f345405d495698387be5f3812d2a4249faab693e3"
 
 [[files]]
 file = "config/ironfurnaces.toml"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/ironjetpacks-client.toml"
-hash = "a9860a4d17ce2a6258589f37229e1eae2a2a209fab09c812d00b2e28ece6b12b"
-
-[[files]]
-file = "config/ironjetpacks-common.toml"
-hash = "52cfe9915c9f9d7d184973b6a3d53e68e7a7f11b0019ca6c9f222727eab99a2a"
 
 [[files]]
 file = "config/ironjetpacks/jetpacks/bronze.json"
@@ -925,6 +949,10 @@ file = "config/naturescompass-common.toml"
 hash = "19e32515b4d9338aaa605bcd30dda6634d0a999f82ed0689749d95cb40397f5a"
 
 [[files]]
+file = "config/overflowingbars-client.toml"
+hash = "1cb5807421d57c43c64c74b18bc22a30452f4e84b59020ed39742c0b957ea57b"
+
+[[files]]
 file = "config/patchouli-client.toml"
 hash = "3b6236845f6a5ff8804487b63b0d74305b91316dc9a008362838607b0be3bd8e"
 
@@ -1017,12 +1045,16 @@ file = "config/torchmaster.toml"
 hash = "968522483c909cd663b133543c10aae4c5b5d7dca693ef2bf611c8a55278a51c"
 
 [[files]]
+file = "config/tradingpost-server.toml"
+hash = "f8e08cdf664d3e5fa2805eddbdeef0e2b46bbe94cf1e5ef86ed70f29fea54add"
+
+[[files]]
 file = "config/travelersbackpack-client.toml"
 hash = "58d116ae78ec83cfb3a27eb4cedc51382654b9704e1c4ffcd5d13d8d09f21191"
 
 [[files]]
 file = "config/travelersbackpack-common.toml"
-hash = "1bf2606d4a6a7261d2647c0b8643c7d0b9881d645e9f5e6ba36c66e45771f0a9"
+hash = "cf3805786b084ac0365478e1da7d4db5d6a86d31468fadf31944e05c134a19b8"
 
 [[files]]
 file = "config/twilightforest-client.toml"
@@ -1087,6 +1119,10 @@ hash = "12ba2346f1271bf8338fd41134cc5715883ebc77c39cc186c23a5039f7461eb7"
 [[files]]
 file = "defaultconfigs/ftbultimine-server.snbt"
 hash = "aec5fc83dc4fc68eac187ece56b73922b2a4ba8703d768f4a4b857b5b4f0d0db"
+
+[[files]]
+file = "defaultconfigs/inventorysorter-server.toml"
+hash = "4162c3945722187d740ffe02fe881127fb4b1be756b71ec18f41080ddb38aa25"
 
 [[files]]
 file = "defaultconfigs/jei-server.toml"
@@ -1203,6 +1239,11 @@ hash = "d02b891b8549c4bacda20466c941001255efd7f184f5ff6bd662ef90c9f6de95"
 metafile = true
 
 [[files]]
+file = "mods/bartering-station.pw.toml"
+hash = "735dd212445fb96f9aedd4d7333350ac6ea3476f1ddc758f80625716a0fd0198"
+metafile = true
+
+[[files]]
 file = "mods/baubley-heart-canisters.pw.toml"
 hash = "19f53b210f35626cd418c40cdd2e12fba2764e66197be2c0de086f99632f9dd3"
 metafile = true
@@ -1283,8 +1324,18 @@ hash = "98952c950b934d7897e58d3602dab4a1ec64d63fa672d11b1320c7c09ef026fa"
 metafile = true
 
 [[files]]
+file = "mods/click-machine.pw.toml"
+hash = "de1defd6ec01efe8c257625178d9d66c762ced342038cb7640159449f703f480"
+metafile = true
+
+[[files]]
 file = "mods/clickable-advancements.pw.toml"
 hash = "588807da8d9fcf5b9670a0b9804d8a3c400a4985b23e8aa7368f4e7c6e721f80"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "f71088a0f4930a32f27756a6fc6db26a88ead8bf5e236159c52c98868e26ed27"
 metafile = true
 
 [[files]]
@@ -1330,6 +1381,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
+file = "mods/crafting-automat.pw.toml"
+hash = "54cbcea741c0ae4f9bbffe6db661185aefb56c70408c780b605b5fbda5c66d39"
 metafile = true
 
 [[files]]
@@ -1548,6 +1604,11 @@ hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
 metafile = true
 
 [[files]]
+file = "mods/hang-glider.pw.toml"
+hash = "39d13de3388a0546d3116bb4ae1f6c86f068d051688cb0c3505ba1c4eb0e05e4"
+metafile = true
+
+[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "5a1e1d9e5a5e64d7b7641ba4e394d374fd762abcb7f2920dda74c4d29bbdae86"
 metafile = true
@@ -1555,6 +1616,11 @@ metafile = true
 [[files]]
 file = "mods/insanelib.pw.toml"
 hash = "aa5faf9325384962b26dd78b2816dde6530160f7a4ffac46d57eb51ec76af86e"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
 metafile = true
 
 [[files]]
@@ -1680,6 +1746,11 @@ metafile = true
 [[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "9d66478fde6c978312f93734d481bcb9ae9c49b74cb4538fce58c65ef15d593c"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "447d3edbe6b85c54c601c64709cf7223af19142d0a47c2a2032194baf10c61f2"
 metafile = true
 
 [[files]]
@@ -1850,6 +1921,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "7dea79ae9793a1a5ff3bb97f17ab5f835d07fd1053ade9114feced05bccb0229"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+hash = "d4230c3d47d1630348daf1ef7bba1201367aa39cdf6ad585ae3aca59e1bb6614"
 metafile = true
 
 [[files]]
