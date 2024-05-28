@@ -1431,6 +1431,11 @@ hash = "a25d0d16d3da4c91a5b924e6372218b5b308eab4d07de5f5d48b801e08b506fc"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "16b412b2e37d3dd36de55b7ad0c4db42ae0bd9bb5bb2fd1e6424e9b4c71620e2"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "ee1b4b6d53fce1aa5a3eaa8cb321b56e55a9e3fffeb31152ab1dcd130284eaf1"
 metafile = true
@@ -1621,6 +1626,11 @@ hash = "4fdb75b6a3ad133e0f80c3b9a55695578c1be63f2e1e034e943adbce3b00545b"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "fcb1cb77c34aa9819c2dd9dacd13526592fb0995da7e8cd5f1f6d595b7ffd9d4"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "b9e82527f9d5d2152c4e095c00a3d0a30a29825479fd73e7e24a2634bde112be"
 metafile = true
@@ -1683,6 +1693,11 @@ metafile = true
 [[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "22ffca942573f1c39cc6c495122a31706a12eeb655c013c6c017aa1306ccaf7b"
+metafile = true
+
+[[files]]
+file = "mods/mob-lassos.pw.toml"
+hash = "1d795bc1337bba9668115c25cd71137590afc8664510710948400e8478cf32ad"
 metafile = true
 
 [[files]]
