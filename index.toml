@@ -753,16 +753,8 @@ file = "config/functionalstorage/functionalstorage-common.toml"
 hash = "755f6ce544a914b7c01a5ccfafc2cd4928635317b8af3fc500f5b610a8a5f703"
 
 [[files]]
-file = "config/harvestwithease-common.toml"
-hash = "12cea05696100fe7b604b9e5be201581cb5221d389d2c034d1d45764dabaea82"
-
-[[files]]
 file = "config/insanelib-common.toml"
 hash = "9c7a4d601a1f1f7d0630af08c49d2532bf9e514c9b0854826e28d3de67a4cb4b"
-
-[[files]]
-file = "config/inventorysorter-client.toml"
-hash = "a9a90c120d374d82018b03e579f1a4df8b4c5218e47a5c59a06fb3284661195f"
 
 [[files]]
 file = "config/ironfurnaces-client.toml"
@@ -961,6 +953,10 @@ file = "config/pregen/base.cfg"
 hash = "29b326682ab7cc568430fd18d4431290ad8d2d0078f62bae977b99ca0bf8faac"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "4bb40dc1f17b05382939268853d8ae0066097bc7793e57d9a3a3b5cb9289b3e4"
+
+[[files]]
 file = "config/resourceful-config-web.json"
 hash = "95142ca3b8eaf42c917f5ebe6250ab8294c0681a567e175a752362137cbfd92a"
 
@@ -1105,16 +1101,16 @@ file = "defaultconfigs/ftbchunks-world.snbt"
 hash = "a84f527e24a72a71041518151dfebcff6f2d14f028c16b1f8555a835e2e684ef"
 
 [[files]]
+file = "defaultconfigs/ftbchunks/client-config.snbt"
+hash = "ed8bcf78d05a5dad7cba864ea44a0de96d0ca2cb4d1bd3b3b59581182676d634"
+
+[[files]]
 file = "defaultconfigs/ftbessentials.snbt"
 hash = "12ba2346f1271bf8338fd41134cc5715883ebc77c39cc186c23a5039f7461eb7"
 
 [[files]]
 file = "defaultconfigs/ftbultimine-server.snbt"
 hash = "aec5fc83dc4fc68eac187ece56b73922b2a4ba8703d768f4a4b857b5b4f0d0db"
-
-[[files]]
-file = "defaultconfigs/inventorysorter-server.toml"
-hash = "4162c3945722187d740ffe02fe881127fb4b1be756b71ec18f41080ddb38aa25"
 
 [[files]]
 file = "defaultconfigs/jei-server.toml"
@@ -1348,6 +1344,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "6bdf5c00414be2b3bb20d040afe2e90550a300755414aaff01577eed6eaf491f"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
@@ -1601,23 +1602,23 @@ hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
 metafile = true
 
 [[files]]
-file = "mods/harvest-with-ease.pw.toml"
-hash = "5a1e1d9e5a5e64d7b7641ba4e394d374fd762abcb7f2920dda74c4d29bbdae86"
-metafile = true
-
-[[files]]
 file = "mods/insanelib.pw.toml"
 hash = "aa5faf9325384962b26dd78b2816dde6530160f7a4ffac46d57eb51ec76af86e"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorter.pw.toml"
-hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
+file = "mods/iron-chests.pw.toml"
+hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
 metafile = true
 
 [[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "417b7db4ff7ba993a2c96086b718bd48cc38ef8fcd4e04150252239b3be721e1"
+metafile = true
+
+[[files]]
+file = "mods/iron-shulker-boxes.pw.toml"
+hash = "e0c11174c893496c2ba826b45a0d6df06261b6a4cfa5d7cb37d37f1e1708f7ae"
 metafile = true
 
 [[files]]
@@ -1698,11 +1699,6 @@ metafile = true
 [[files]]
 file = "mods/mob-lassos.pw.toml"
 hash = "1d795bc1337bba9668115c25cd71137590afc8664510710948400e8478cf32ad"
-metafile = true
-
-[[files]]
-file = "mods/mod-name-tooltip.pw.toml"
-hash = "0f37846b5bc38059aad5800e48e22a7d24b915ef553e3241af2b63e9ba864237"
 metafile = true
 
 [[files]]
@@ -1793,6 +1789,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "b15f8cc6d2943faa4afad0e41ec5dfd232cd8de8e30fdb2a76dafe14c8515f43"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "6974066748d1a32944b57b99be5098127cc5ebaee4c600c7ff719f8c110bf9af"
 metafile = true
 
 [[files]]
@@ -1926,6 +1927,11 @@ hash = "7dea79ae9793a1a5ff3bb97f17ab5f835d07fd1053ade9114feced05bccb0229"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "12b6239f5ef79e5db05bf73f15187a3478627b3a1e8a437c88cff9e767665be6"
+metafile = true
+
+[[files]]
 file = "mods/trading-post.pw.toml"
 hash = "d4230c3d47d1630348daf1ef7bba1201367aa39cdf6ad585ae3aca59e1bb6614"
 metafile = true
@@ -1946,6 +1952,16 @@ hash = "5f7c7bb29895141d57fdc32823a169e3a851176760f8ceed6c00bc109b4288df"
 metafile = true
 
 [[files]]
+file = "mods/wither-skeleton-tweaks.pw.toml"
+hash = "b8c9c00fe71df49cfbda00dd8160e02f4a408c397ac588842eb1412b4498ae03"
+metafile = true
+
+[[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "e02a4197368c4925bb98658883da17aace29927eeca7773c494be6c879269268"
 metafile = true
